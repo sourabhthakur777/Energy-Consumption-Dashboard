@@ -24,3 +24,6 @@ This project helped me to learn new features of Power BI.
 -Tooltips
 # Dashboard
 Created an energy consumption Power BI dashboard to provide a comprehensive overview of energy usage across different systems and devices. The dashboard utilized advanced data visualization techniques to highlight trends, anomalies and opportunities for energy conservation. Key features included interactive charts, drill-down capabilities, and data filtering options. The dashboard was designed to enable end-users to monitor and manage energy consumption efficiently, optimize energy efficiency, and reduce costs. The dashboard was praised for its user-friendly interface, high level of detail, and actionable insights, resulting in a measurable reduction in energy consumption and significant cost savings.
+
+# Checkout and Interact with my Dashboard On:
+https://www.novypro.com/project/energy-consumption
